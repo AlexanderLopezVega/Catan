@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be99eda8030b54c468a447b3b494ff78, type: 3}
+  m_Name: Map Prefabs
+  m_EditorClassIdentifier: Project.Game.Unity::Project.Game.Unity.MapPrefabs
+  <VertexPrefab>k__BackingField: {fileID: 2811808291473079721, guid: 2065c570421c33e48974b2e1140a4d3d, type: 3}
+  <EdgePrefab>k__BackingField: {fileID: 556367516233225226, guid: 0e70cfb4fe37c1648bda20e0261cbb5f, type: 3}
+  <DesertTilePrefab>k__BackingField: {fileID: 9202651028171365297, guid: ed8fcb9cf3a5a994681f2b75580c701d, type: 3}
+  <BrickTilePrefab>k__BackingField: {fileID: 7976506878209210319, guid: bf20544dd8565364cb3e32b13125bd20, type: 3}
+  <GrainTilePrefab>k__BackingField: {fileID: 3762218217694572938, guid: be20147528165f14eb209dbf6a3535c4, type: 3}
+  <LumberTilePrefab>k__BackingField: {fileID: 5763005096088277650, guid: 0b44f27f453d7734bac8468725a885c7, type: 3}
+  <OreTilePrefab>k__BackingField: {fileID: 8588943060652021676, guid: 11e6375d6242cf3499bc50ab2d3e0975, type: 3}
+  <WoolTilePrefab>k__BackingField: {fileID: 7938087841553652188, guid: bb45af10c8bb6614e9b495d078c136cd, type: 3}

@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Project.Game.Core.csproj" />
+  <Project Path="Plugins.LeanTween.csproj" />
+  <Project Path="Project.Game.Unity.csproj" />
+</Solution>
