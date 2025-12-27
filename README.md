@@ -1,0 +1,1 @@
+A Unity-based implementation of Settlers of Catan with systems-driven architecture and separation of concerns between game logic and UI/graphics.
